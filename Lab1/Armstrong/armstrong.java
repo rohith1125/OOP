@@ -3,7 +3,8 @@ import java.util.*;
 class armstrong
 {
 	public static void main(String args[])
-	{
+	{   
+	    System.out.println("Sai Rohith T - 190953059");
 		int arr[]=new int[10];
 		int n,a,i,order,arm;
 		i=0;arm=0;
