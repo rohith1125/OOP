@@ -1,6 +1,6 @@
 //Created by Sai Rohith on 2021-06-28
 //Copyright © 2021 Sai Rohith. All rights reserved.
-//calc
+//search
 package Lab1.search;
 import java.util.*;
 class search

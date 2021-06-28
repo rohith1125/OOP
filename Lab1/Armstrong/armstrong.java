@@ -1,3 +1,6 @@
+//Created by Sai Rohith on 2021-06-28
+//Copyright © 2021 Sai Rohith. All rights reserved.
+//Armstrong
 package Lab1.Armstrong;
 import java.util.*;
 class armstrong
