@@ -1,7 +1,7 @@
 //Created by Sai Rohith on 2021-06-28
 //Copyright © 2021 Sai Rohith. All rights reserved.
 //calc
-package Lab1;
+package Lab1.Calculator;
 import java.util.Scanner;
 	public class calc {
 	    public static void main(String[] args) {

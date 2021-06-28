@@ -1,10 +1,13 @@
-package Lab1;
+//Created by Sai Rohith on 2021-06-28
+//Copyright © 2021 Sai Rohith. All rights reserved.
+//Secondary Diagonal Sum
+package Lab1.Secondary_Diagonal_Sum;
 import java.util.*;
 class diagonal
 {
 	public static void main(String args[])
 	{
-System.out.println("Sai Rohith T - 190953059");
+		System.out.println("Sai Rohith T - 190953059");
 		int a[][]=new int[100][100];
 		int i,j,n,sum=0;
 		Scanner sc=new Scanner(System.in);
