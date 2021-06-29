@@ -24,6 +24,7 @@ class diagonal
 		for(j=n-1;j>=0;j--)
 		if(i+j==n-1)
 		{
+			//Logic for secondary diagonal addition
 			System.out.print(a[i][j]+"\t");
 			sum=sum+a[i][j];
 			break;

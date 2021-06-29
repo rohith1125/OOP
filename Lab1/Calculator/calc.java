@@ -47,6 +47,7 @@ import java.util.Scanner;
 	                default: 
 	                System.out.println("invalid operator");          
 	            }
+	            //Prompting and asking if user wants to continue
 	            System.out.println("do you want to continue? y/n");
 	            choice=s.next().charAt(0);
 	           }while((choice == 'y') || (choice == 'Y'));
