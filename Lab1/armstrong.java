@@ -1,7 +1,6 @@
 //Created by Sai Rohith
 //Copyright © 2021 Sai Rohith. All rights reserved.
-//Armstrong
-package Lab1.Armstrong;
+//Armstrong number or not
 import java.util.*;
 class armstrong
 {

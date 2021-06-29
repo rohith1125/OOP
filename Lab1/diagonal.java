@@ -1,7 +1,6 @@
-//Created by Sai Rohith on 2021-06-28
+//Created by Sai Rohith
 //Copyright © 2021 Sai Rohith. All rights reserved.
 //Secondary Diagonal Sum
-package Lab1.Secondary_Diagonal_Sum;
 import java.util.*;
 class diagonal
 {
@@ -29,6 +28,6 @@ class diagonal
 			sum=sum+a[i][j];
 			break;
 		}
-		System.out.println("\nSum of all non principal diagonal elements is "+sum);
+		System.out.println("\nSum of non principal diagonal elements is "+sum);
 	}
 }

@@ -1,4 +1,6 @@
-package Lab1.Librar;
+//Created by Sai Rohith
+//Copyright © 2021 Sai Rohith. All rights reserved.
+//Book
 import java.util.Scanner;
 import java.io.*;
 public class Lib {
@@ -6,6 +8,7 @@ public class Lib {
        Scanner sc = new Scanner(System.in);
        Book arr[]= new Book[6];
        String s1, s2, s3;
+       System.out.println("Sai Rohith T 190953059");
        File file = new File("C:/Users/tanuk/Documents/New folder/file.txt");
        try {
            FileWriter fw

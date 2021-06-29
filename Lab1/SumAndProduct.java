@@ -1,7 +1,6 @@
-//Created by Sai Rohith on 2021-06-28
+//Created by Sai Rohith
 //Copyright © 2021 Sai Rohith. All rights reserved.
 //Sum and Product
-package Lab1.SumAndProduct;
 import java.util.*;
 public class SumAndProduct{
     public static void main(String args[]) {

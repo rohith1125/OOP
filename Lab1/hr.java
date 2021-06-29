@@ -1,7 +1,6 @@
-//Created by Sai Rohith on 2021-06-29
+//Created by Sai Rohith
 //Copyright © 2021 Sai Rohith. All rights reserved.
 //Time
-package Lab1.time;
 class time{
     int hr,min,sec;
     time(){
@@ -29,9 +28,10 @@ class time{
         this.hr=(h+m/60)%24;
         System.out.print(h + ":" +m + ":"+s);
     }
-}class Main{
+}class hr {
 public static void main(String args[]){
 //Driver Code, for demonstration
+System.out.println("Sai Rohith T 190953059");
 time t = new time(4,2,0);
 time t1 = new time(5,4,0);
 t.display();
