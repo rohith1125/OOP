@@ -1,4 +1,4 @@
-//Created by Sai Rohith on 2021-06-28
+//Created by Sai Rohith
 //Copyright © 2021 Sai Rohith. All rights reserved.
 //Armstrong
 package Lab1.Armstrong;
