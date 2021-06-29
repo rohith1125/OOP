@@ -11,6 +11,7 @@ class diagonal
 		int a[][]=new int[100][100];
 		int i,j,n,sum=0;
 		Scanner sc=new Scanner(System.in);
+		//Taking user input
 		System.out.println("Enter the dimension of the square matrix: ");
 		n=sc.nextInt();
 		System.out.println("Enter the elements: ");
@@ -18,6 +19,7 @@ class diagonal
 		for(j=0;j<n;j++)
 			a[i][j]=sc.nextInt();
 		System.out.println("The non principal diagonal elements are: \n");
+		//Computing the sum of secondary diagonal
 		for(i=0;i<n;i++)
 		for(j=n-1;j>=0;j--)
 		if(i+j==n-1)

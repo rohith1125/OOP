@@ -11,10 +11,12 @@ class armstrong
 		int arr[]=new int[10];
 		int n,a,i,order,arm;
 		i=0;arm=0;
+		//User input
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter a number: ");
 		n=s.nextInt();
 		a=n;
+		//Armstrong Number Logic
 		while(a>0)
 		{
 			arr[i]=a%10;
